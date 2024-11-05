@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Library Management System -Java
 
 
@@ -184,3 +185,6 @@ If you face any issue, you can create a new issue in the Issues Tab and I will b
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
 Copyright (c) 2018-present, harismuneer, MahamAmjad                                                       
+=======
+# LMSjava12
+>>>>>>> origin/main
